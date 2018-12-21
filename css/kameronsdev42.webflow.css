@@ -133,7 +133,7 @@ body {
 }
 
 ._1 {
-  background-image: -webkit-linear-gradient(270deg, #0b141d, #0b141d), url('../images/luca-bravo-217276.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#0b141d), to(#0b141d)), url('../images/luca-bravo-217276.jpg');
   background-image: linear-gradient(180deg, #0b141d, #0b141d), url('../images/luca-bravo-217276.jpg');
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
@@ -332,7 +332,7 @@ body {
 }
 
 .largewebsite {
-  height: 318px;
+  height: 252px;
   box-shadow: 0 20px 200px -15px #3b3b3b;
 }
 
